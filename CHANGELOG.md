@@ -18,7 +18,7 @@ These changes are available on the `master` branch, but have not yet been releas
 
 - Fix `TypeError` when accessing the deprecated `guild_only` property on an
   application command or command group created without `contexts`.
-  ([#3283](https://github.com/Pycord-Development/pycord/pull/3283))
+  ([#3318](https://github.com/Pycord-Development/pycord/pull/3318))
 
 ### Deprecated
 
